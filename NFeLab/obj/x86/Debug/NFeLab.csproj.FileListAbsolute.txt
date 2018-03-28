@@ -1,0 +1,9 @@
+E:\PROJETOS\NFeLab\NFeLab\bin\x86\Debug\NFeLab.exe.config
+E:\PROJETOS\NFeLab\NFeLab\bin\x86\Debug\NFeLab.exe
+E:\PROJETOS\NFeLab\NFeLab\bin\x86\Debug\NFeLab.pdb
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.Form1.resources
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.Properties.Resources.resources
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.csproj.GenerateResource.Cache
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.exe
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.pdb
+E:\PROJETOS\NFeLab\NFeLab\obj\x86\Debug\NFeLab.csprojResolveAssemblyReference.cache
